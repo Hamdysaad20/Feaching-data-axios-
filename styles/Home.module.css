@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #353535;
 }
 
 .main {
@@ -118,4 +119,22 @@
     width: 100%;
     flex-direction: column;
   }
+}
+.red {
+  background-color: red;
+  width: 100vh;
+  height: 100vh;
+}
+
+.green {
+  background-color: rgb(81, 255, 0);
+  width: 100vh;
+  height: 100vh;
+}
+.text {
+  color: rgb(250, 246, 210);
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 10%;
+  font-family: "Baloo Bhaijaan 2", cursive;
 }
