@@ -1,9 +1,6 @@
 ---
 title: The simplest way to fetch data from APIs in NextJS
-published: true
-description: 
-tags: 
-//cover_image: https://direct_url_to_image.jpg
+
 ---
 ![1_ycqhUTo1LqydeC355iHRoA.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1650859005614/KTnyWjTdl.jpeg)
 
